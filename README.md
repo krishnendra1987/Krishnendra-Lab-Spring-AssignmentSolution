@@ -1,4 +1,4 @@
-# Swabhiman_Lab-Spring-AssignmentSolution
+# Krishnendra_Lab-Spring-AssignmentSolution
 Lab 6 Assignment (Spring Boot - Backend)
 
 Screenshots included -
